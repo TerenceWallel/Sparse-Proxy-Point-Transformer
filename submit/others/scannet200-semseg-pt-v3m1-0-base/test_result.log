@@ -1,0 +1,409 @@
+avg iou
+head iou
+common iou
+tail iou
+alarm clock
+armchair
+backpack
+bag
+ball
+bar
+basket
+bathroom cabinet
+bathroom counter
+bathroom stall
+bathroom stall door
+bathroom vanity
+bathtub
+bed
+bench
+bicycle
+bin
+blackboard
+blanket
+blinds
+board
+book
+bookshelf
+bottle
+bowl
+box
+broom
+bucket
+bulletin board
+cabinet
+calendar
+candle
+cart
+case of water bottles
+cd case
+ceiling
+ceiling light
+chair
+clock
+closet
+closet door
+closet rod
+closet wall
+clothes
+clothes dryer
+coat rack
+coffee kettle
+coffee maker
+coffee table
+column
+computer tower
+container
+copier
+couch
+counter
+crate
+cup
+curtain
+cushion
+decoration
+desk
+dining table
+dish rack
+dishwasher
+divider
+door
+doorframe
+dresser
+dumbbell
+dustpan
+end table
+fan
+file cabinet
+fire alarm
+fire extinguisher
+fireplace
+floor
+folded chair
+furniture
+guitar
+guitar case
+hair dryer
+handicap bar
+hat
+headphones
+ironing board
+jacket
+keyboard
+keyboard piano
+kitchen cabinet
+kitchen counter
+ladder
+lamp
+laptop
+laundry basket
+laundry detergent
+laundry hamper
+ledge
+light
+light switch
+luggage
+machine
+mailbox
+mat
+mattress
+microwave
+mini fridge
+mirror
+monitor
+mouse
+music stand
+nightstand
+object
+office chair
+ottoman
+oven
+paper
+paper bag
+paper cutter
+paper towel dispenser
+paper towel roll
+person
+piano
+picture
+pillar
+pillow
+pipe
+plant
+plate
+plunger
+poster
+potted plant
+power outlet
+power strip
+printer
+projector
+projector screen
+purse
+rack
+radiator
+rail
+range hood
+recycling bin
+refrigerator
+scale
+seat
+shelf
+shoe
+shower
+shower curtain
+shower curtain rod
+shower door
+shower floor
+shower head
+shower wall
+sign
+sink
+soap dish
+soap dispenser
+sofa chair
+speaker
+stair rail
+stairs
+stand
+stool
+storage bin
+storage container
+storage organizer
+stove
+structure
+stuffed animal
+suitcase
+table
+telephone
+tissue box
+toaster
+toaster oven
+toilet
+toilet paper
+toilet paper dispenser
+toilet paper holder
+toilet seat cover dispenser
+towel
+trash bin
+trash can
+tray
+tube
+tv
+tv stand
+vacuum cleaner
+vent
+wall
+wardrobe
+washing machine
+water bottle
+water cooler
+water pitcher
+whiteboard
+window
+windowsill
+
+0.340
+0.535
+0.274
+0.169
+0.000
+0.000
+0.490
+0.070
+0.361
+0.000
+0.000
+0.000
+0.000
+0.183
+0.245
+0.450
+0.756
+0.787
+0.315
+0.837
+0.000
+0.872
+0.198
+0.079
+0.308
+0.284
+0.536
+0.154
+0.006
+0.310
+0.000
+0.000
+0.008
+0.398
+0.289
+0.000
+0.094
+0.000
+0.000
+0.876
+0.059
+0.691
+0.000
+0.086
+0.000
+0.518
+0.000
+0.357
+0.662
+0.000
+0.000
+0.473
+0.671
+0.000
+0.731
+0.000
+0.896
+0.765
+0.061
+0.000
+0.253
+0.888
+0.000
+0.000
+0.480
+0.000
+0.413
+0.282
+0.000
+0.690
+0.366
+0.373
+0.487
+0.000
+0.357
+0.506
+0.649
+0.025
+0.618
+0.000
+0.948
+0.194
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.152
+0.562
+0.196
+0.537
+0.405
+0.637
+0.410
+0.674
+0.445
+0.481
+0.297
+0.000
+0.357
+0.000
+0.021
+0.159
+0.000
+0.022
+0.879
+0.496
+0.000
+0.460
+0.161
+0.348
+0.853
+0.196
+0.000
+0.639
+0.109
+0.014
+0.000
+0.000
+0.000
+0.000
+0.686
+0.701
+0.078
+0.456
+0.872
+0.282
+0.000
+0.590
+0.095
+0.787
+0.020
+0.498
+0.000
+0.000
+0.118
+0.000
+0.494
+0.000
+0.002
+0.000
+0.000
+0.589
+0.000
+0.560
+0.155
+0.683
+0.111
+0.000
+0.232
+0.455
+0.368
+0.659
+0.609
+0.000
+0.000
+0.063
+0.033
+0.000
+0.748
+0.000
+0.648
+0.084
+0.000
+0.803
+0.832
+0.000
+0.619
+0.000
+0.484
+0.000
+0.598
+0.000
+0.000
+0.625
+0.505
+0.463
+0.260
+0.214
+0.000
+0.913
+0.370
+0.662
+0.000
+0.000
+0.595
+0.140
+0.667
+0.000
+0.099
+0.841
+0.700
+0.860
+0.000
+0.811
+0.133
+0.785
+0.000
+0.386
+0.006
+0.317
+0.696
+0.423

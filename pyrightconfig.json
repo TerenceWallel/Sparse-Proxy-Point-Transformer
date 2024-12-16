@@ -1,0 +1,9 @@
+{
+    "exclude": [
+        "data",
+        "docs",
+        "vis",
+        "exp",
+    ],
+    "typeCheckingMode": "off"
+}
