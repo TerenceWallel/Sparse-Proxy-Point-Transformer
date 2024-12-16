@@ -13,7 +13,7 @@ Paper Link: [[arxiv](https://arxiv.org)]
 ## Quick Start
 
 * Our model file is location in ./sp2t or ./pointcept.
-* The training log and val/test result is location in ./submit. We will update the model if our paper is accepted.
+* The training log and val/test result is location in ./submit. We will update the weight of SP<sup>2</sup>T if our paper is accepted.
 * The config is location in ./config.
 
 ## Installation
