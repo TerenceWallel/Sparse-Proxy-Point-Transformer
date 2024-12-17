@@ -2,7 +2,7 @@
 
 The offical repository of the paper **SP<sup>2</sup>T: Sparse Proxy Attention for Dual-stream Point Transformer**.
 
-Paper Link: [[arxiv](https://arxiv.org)]
+Paper Link: [[arxiv](https://arxiv.org/abs/2412.11540)]
 
 ![Main Framework](figure/main.png)
 
@@ -191,5 +191,13 @@ We have provided the train log, test file and test result in the ./submit. We wi
 If you find our work useful to your research, please cite our work :).
 
 ```
-Wait for arxiv.
+@misc{wan2024sp2tsparseproxyattention,
+      title={SP$^2$T: Sparse Proxy Attention for Dual-stream Point Transformer}, 
+      author={Jiaxu Wan and Hong Zhang and Ziqi He and Qishu Wang and Ding Yuan and Yifan Yang},
+      year={2024},
+      eprint={2412.11540},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.11540}, 
+}
 ```
