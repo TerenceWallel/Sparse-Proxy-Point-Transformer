@@ -51,6 +51,8 @@ Unfortunately, we have not found any open-source implementations for over-segmen
 | MinkUnet | ScanNet | ✗ | 72.2 | 73.4 |  |  |  |
 | Octformer (Reproduction) | ScanNet | ✗ | 74.6 | 70.7 |  |  | [Result](https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer/tree/main/submit/others/scannet-semseg-octformer-v1m1-0-base) |
 | PTv2 | ScanNet | ✗ | 75.4 |  |  |  |  |
+| Octformer (Offical) | ScanNet | ✗ | 75.7 |  |  |  |  |
+| Swin3d (Offical) | ScanNet | ✗ | 76.4|  |  |  |  |
 | Swin3d (Reproduction) | ScanNet | ✗ | 76.6 | 71.4 |  |  | [Result](https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer/tree/main/submit/others/scannet-semseg-swin3d-v1m1-0-small) |
 | PTv3 | ScanNet | ✗ | 77.5 | 73.6 |  |  | [Result](https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer/tree/main/submit/others/scannet-semseg-pt-v3m1-0-base) |
 | PTv3 + PPT | ScanNet | ✓ | 78.6 |   |  |  |  |
@@ -67,6 +69,7 @@ the furture.
 | PTv1 | ScanNet200 | ✗ | 27.8 |  |  |  |  |
 | PTv2 | ScanNet200 | ✗ | 30.2 |  |  |  |  |
 | Octformer (Reproduction) | ScanNet200 | ✗ | 31.9 | 31.0 |  |  | [Result](https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer/tree/main/submit/others/scannet200-semseg-octformer-v1m1-0-base) |
+| Octformer (Offical) | ScanNet200 | ✗ | 32.6 |  |  |  |  |
 | PTv3 | ScanNet200 | ✗ | 35.2 | 34.0 |  |  | [Result](https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer/tree/main/submit/others/scannet200-semseg-pt-v3m1-0-base) |
 | PTv3 + PPT | ScanNet200 | ✓ | 36.0 |  |  |  |  |
 | SP<sup>2</sup>T | ScanNet200 | ✗ | 37.0 | 35.2  | [Config](https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer/blob/main/configs/scannet200/semseg-sppt-0-base.py) |  | [Result](https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer/tree/main/submit/sppt/scannet200-semseg-sppt) |
