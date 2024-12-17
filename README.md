@@ -43,8 +43,8 @@ Please follow the offical guide of Pointcept fot prepare Scannet, Scannet200, S3
 
 #### ScanNet
 
-Currently, mainstream point cloud models use over-segmentation TTA augmentation on the Test set of Scannet. 
-Unfortunately, we have not found any open-source implementations for over-segmentation. To ensure fairness, we re-tested the existing mainstream point cloud models using TTA augmentation on the Val set as the standard.
+Currently, most point cloud models use over-segmentation TTA augmentation on the Test set of Scannet. 
+Unfortunately, we have not found any open-source implementations for over-segmentation. To ensure fairness, we re-tested the existing point cloud models using TTA augmentation on the Val set as the standard.
 
 | Model | BenchMark | Additional Data | Val mIOU | Test mIOU | Config | Weight | Result and Log |
 |:-----:|:---------:|:---------------:|:--------:|:---------:|:--------:|:--------:|:----------:|
