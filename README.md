@@ -159,7 +159,7 @@ sh scripts/train.sh -g 4 -d scannet200 -c insseg-sppt-0-base -n insseg-sppt-0-ba
 | MinkUnet | nuScenes | 73.3 |  |  |  |
 | PTv2 | nuScenes | 80.2  |  |  |  |
 | PTv3 | nuScenes | 80.4 |  |  |  |
-| SP<sup>2</sup>T | nuScenes | 80.7 |  [Config](https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer/blob/main/configs/nuscenes/semseg-sppt-1-base.py) | | [Log](https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer/tree/main/submit/sppt/nuscenes-semseg-sppt) |
+| SP<sup>2</sup>T | nuScenes | 81.2 |  [Config](https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer/blob/main/configs/nuscenes/semseg-sppt-1-base.py) | | [Log](https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer/tree/main/submit/sppt/nuscenes-semseg-sppt) |
 
 #### Example
 
